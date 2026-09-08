@@ -42,7 +42,7 @@ local lp = LocalPlayer
 
 -- WINDOW
 local Window = Fluent:CreateWindow({
-Title = "Reaper Hub",
+Title = "REAPER HUB",
 SubTitle = "Universal",
 TabWidth = 160,
 Size = UDim2.fromOffset(520, 360),
